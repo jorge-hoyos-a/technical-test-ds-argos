@@ -1,7 +1,8 @@
 pip
 pandas
-ydata-profiling
-scikit-learn
-xlrd
 matplotlib
+statsmodels
+scikit-learn
+ydata-profiling
+xlrd
 xgboost
