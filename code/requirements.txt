@@ -1,0 +1,8 @@
+pip
+pandas
+matplotlib
+statsmodels
+scikit-learn
+ydata-profiling
+xlrd
+xgboost

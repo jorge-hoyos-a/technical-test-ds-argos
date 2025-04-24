@@ -1,1 +1,1 @@
-# technical-test-ds-argos
+# Technical test for Data Scientist - Argos
