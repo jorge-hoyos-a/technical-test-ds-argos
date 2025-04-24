@@ -1,0 +1,7 @@
+pip
+pandas
+ydata-profiling
+scikit-learn
+xlrd
+matplotlib
+xgboost
